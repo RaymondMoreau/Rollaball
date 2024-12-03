@@ -20,6 +20,8 @@ Library: C:\Users\Raymond Moreau\Documents\Rollaball\Rollaball\Temp\BurstOutput\
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.Timeline;
+--assembly-defines=Unity.InputSystem;
+--assembly-defines=Unity.InputSystem.ForUI;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.TextMeshPro;
@@ -79,6 +81,8 @@ Library: C:\Users\Raymond Moreau\Documents\Rollaball\Rollaball\Temp\BurstOutput\
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.Timeline;
+--assembly-defines=Unity.InputSystem;
+--assembly-defines=Unity.InputSystem.ForUI;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.TextMeshPro;
@@ -142,6 +146,8 @@ Library: C:\Users\Raymond Moreau\Documents\Rollaball\Rollaball\Temp\BurstOutput\
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.Timeline;
+--assembly-defines=Unity.InputSystem;
+--assembly-defines=Unity.InputSystem.ForUI;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.TextMeshPro;
@@ -207,6 +213,8 @@ Library: C:\Users\Raymond Moreau\Documents\Rollaball\Rollaball\Temp\BurstOutput\
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.Timeline;
+--assembly-defines=Unity.InputSystem;
+--assembly-defines=Unity.InputSystem.ForUI;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.TextMeshPro;
